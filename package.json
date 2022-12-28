@@ -1,0 +1,18 @@
+{
+  "name": "back-freelancecol",
+  "version": "1.0.0",
+  "description": "backend-freelanceCol",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "author": "Carolina Arevalo",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^6.8.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
